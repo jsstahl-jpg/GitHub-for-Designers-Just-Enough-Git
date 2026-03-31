@@ -53,7 +53,7 @@ Huntington, Ian:
 Jones, Brittany:
 Kai, Kyson:
 Kandarkar, Ritvik:
-Kiang, Larry: Ramen
+Kiang, Larry:
 Liu, Yunlei:
 Marquez, Camille: Yellow Curry
 Student:
@@ -62,7 +62,7 @@ Pickford, Breeze:
 Rice, Katya:
 Rivera, Ahmya:
 Samberg, Max:
-Schaul, Calvin:
+Schaul, Calvin: Pancakes
 Singh, Aniket:
 Stahl, Jordan: Sushi!
 Stringer, Jason:

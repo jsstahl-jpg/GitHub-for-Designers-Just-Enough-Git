@@ -9,7 +9,7 @@ Bergren, Noah:
 Chang, Andrea:
 Chen, Yifan:
 Dai, Psychea:
-Dusad, Aayushi:
+Dusad, Aayushi: Sev Puri
 Gong, Mike:
 He, Yongqi:
 Hong, Kiho:
@@ -51,6 +51,8 @@ Gao, Andie:
 Harris, Ian:
 Huntington, Ian:
 Jones, Brittany: Oreos
+Huntington, Ian: sushi
+Jones, Brittany:
 Kai, Kyson:
 Kandarkar, Ritvik:
 Kiang, Larry:
